@@ -1,1 +1,1 @@
-# seed
+# seed is blog
